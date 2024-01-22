@@ -80,3 +80,11 @@ Our report consists of
 Our report can be downloaded here: [report.pdf](https://github.com/BettinaTee03/Final-Year-Project-Management-System/files/14012532/report.pdf)
 
 ## Team Members
+We are Lab Group A33, Group 1, consisting of:
+| Name | GitHub ID |
+| -----|-----------|
+| Cheam Zhong Sheng Andrew | - |
+| Chung Zhi Xuan | @spaceman03 |
+| Lim Jing Jie | - | 
+| Tee Qin Tong Bettina | @BettinaTee03 |
+| Ting Ruo Chee | - |
