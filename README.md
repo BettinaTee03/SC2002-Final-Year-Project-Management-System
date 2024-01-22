@@ -1,13 +1,13 @@
 # Final-Year-Project-Management-System
 NTU AY2022/2023 Semester 2 | SC2002/CE/CZ2002 Object-Oriented Design & Programming | Final Year Project Management System (FYPMS) Project
-All details of the FYPMS were provided as the assignment provided by NTU AY22/23 SC2002 Coordinator Team.
+All details and specifications of the FYPMS were provided as the assignment provided by the NTU AY22/23 SC2002 Coordinator Team.
 
 ## Description
-The Final Year Project Management System (FYPMS) is an application for staffs and students to manage Final Year Projects (FYP). This collaborative group assignment challenged us to model, design, and develop an Object-Oriented application using Java as the programming language. Throughout the development process, we prioritized adherence to SOLID principles, enhancing the system's scalability, maintainability, and overall robustness.
+The Final Year Project Management System (FYPMS) is an application for staff and students to manage Final Year Projects (FYP). This collaborative group assignment challenged us to model, design, and develop an Object-Oriented application using Java as the programming language. Throughout the development process, we prioritized adherence to SOLID principles, enhancing the system's scalability, maintainability, and overall robustness.
 
 ## How to run the system
 ### Build and Run
-Simply download the files into your local drive and open the project in your preferred IDE (e.g. Eclipse). Build the project, locate the main file `src/Assignment/MainApp.java` and run it. 
+Simply download the files to your local drive and open the project in your preferred IDE (e.g. Eclipse). Build the project, locate the main file `src/Assignment/MainApp.java` and run it. 
 ### Resetting the System Data
 1. Locate the Excel sheets (e.g., `student_list.xlsx`, `faculty_list.xlsx`) containing the system data in the Library directory `Library/Excel_Sheets`.
 2. Replace the current Excel sheets with the original ones provided in `Library/Excel_Sheets_OG`.
@@ -27,7 +27,7 @@ Student Features
 + Students can view their requests' history and status.
 
 Supervisor Features
-+ Supervisors can create projects, modify his/her projects' title, view information of his/her projects.
++ Supervisors can create projects, modify his/her projects' titles, and view information about his/her projects.
 + Supervisors can modify project titles upon approving student's request.
 + Supervisors can supervise up to 2 projects. When the cap is reached, his/her remaining projects will be listed as unavailable
 + Supervisors can request for transfer of students to replacement supervisors.
@@ -44,16 +44,16 @@ Final Year Project (FYP) Details
 + FYP is an individual work.
 + Project selection is based on a first-come-first-serve basis.
 + Project status includes available, reserved, unavailable, or allocated.
-+ Available Project information displays projectID, supervisor name, supervisor email address, project title, and status.
-+ Allocated Project will also include student name, student Email address.
-+ Rejected student requests will return the status of the project back to available
++ Available Project information displays the projectID, supervisor name, supervisor email address, project title, and status.
++ Allocated Project will also include the student name, student Email address.
++ Rejected student requests will return the status of the project to available
 + Deregistered projects are recycled and added back to the available project list.
-+ When the student select a project, the status of the project will be changed to reserved and will be excluded from available project list. 
++ When the student selects a project, the status of the project will be changed to reserved and will be excluded from the available projects list. 
 
 Data Handling
 + Data is stored and updated in Excel files, ensuring a seamless and structured management process.
-+ Student list, faculty list and FYP coordinator information are uploaded using their respective files when system is initialized.
-+ When the system runs at first time, the rollover project file is loaded to initialize the project list.
++ Student list, faculty list and FYP coordinator information are uploaded using their respective files when the system is initialized.
++ When the system runs for the first time, the rollover project file is loaded to initialize the project list.
 
 ## UML Class Diagram
 This UML Class Diagram shows the Entity, Control and Boundary classes that are used in the system.
@@ -65,17 +65,17 @@ https://www.youtube.com/watch?v=zZ5IHYYbWF4
 
 ## Report
 Our report consists of
-+ Design considertations
++ Design considerations
   + Model View Controller
   + SOLID Design Principles
   + OO Concepts
 + Detailed UML Class Diagram
 + Testing (various test cases and results)
 + Reflections
-  + difficulties encourntered
+  + difficulties encountered
   + resolving difficulties
   + learning points
-  + future recommednations
+  + future recommendations
 
 Our report can be downloaded here: [report.pdf](https://github.com/BettinaTee03/Final-Year-Project-Management-System/files/14012532/report.pdf)
 
