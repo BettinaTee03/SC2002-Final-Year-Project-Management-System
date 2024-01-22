@@ -60,9 +60,23 @@ This UML Class Diagram shows the Entity, Control and Boundary classes that are u
 ![A33-grp1](https://github.com/BettinaTee03/Final-Year-Project-Management-System/assets/127083047/2e122dad-01f0-46e1-903b-8ab93628e374)
 
 ## Demonstration Video
-
+Our demonstration video can be found at this link! 
+https://www.youtube.com/watch?v=zZ5IHYYbWF4 
 
 ## Report
+Our report consists of
++ Design considertations
+  + Model View Controller
+  + SOLID Design Principles
+  + OO Concepts
++ Detailed UML Class Diagram
++ Testing (various test cases and results)
++ Reflections
+  + difficulties encourntered
+  + resolving difficulties
+  + learning points
+  + future recommednations
 
+Our report can be downloaded here: [report.pdf](https://github.com/BettinaTee03/Final-Year-Project-Management-System/files/14012532/report.pdf)
 
 ## Team Members
