@@ -1,6 +1,6 @@
 # Final-Year-Project-Management-System
 NTU AY2022/2023 Semester 2 | SC2002/CE/CZ2002 Object-Oriented Design & Programming | Final Year Project Management System (FYPMS) Project
-All details and specifications of the FYPMS were provided as the assignment provided by the NTU AY22/23 SC2002 Coordinator Team.
+All details and specifications of the FYPMS were provided as the assignment released by the NTU AY22/23 SC2002 Coordinator Team.
 
 ## Description
 The Final Year Project Management System (FYPMS) is an application for staff and students to manage Final Year Projects (FYP). This collaborative group assignment challenged us to model, design, and develop an Object-Oriented application using Java as the programming language. Throughout the development process, we prioritized adherence to SOLID principles, enhancing the system's scalability, maintainability, and overall robustness.
