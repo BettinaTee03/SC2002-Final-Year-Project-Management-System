@@ -10,7 +10,7 @@ The Final Year Project Management System (FYPMS) is an application for staffs an
 Simply download the files into your local drive and open the project in your preferred IDE (e.g. Eclipse). Build the project, locate the main file `src/Assignment/MainApp.java` and run it. 
 ### Resetting the System Data
 1. Locate the Excel sheets (e.g., `student_list.xlsx`, `faculty_list.xlsx`) containing the system data in the Library directory `Library/Excel_Sheets`.
-2. Replace the current Excel sheets with the original ones provided `Library/Excel_Sheets_OG`.
+2. Replace the current Excel sheets with the original ones provided in `Library/Excel_Sheets_OG`.
 3. Ensure that the system is not running during this process.
 4. Run the system again following the steps mentioned above.
 ### Notes
@@ -56,7 +56,8 @@ Data Handling
 + When the system runs at first time, the rollover project file is loaded to initialize the project list.
 
 ## UML Class Diagram
-
+This UML Class Diagram shows the Entity, Control and Boundary classes that are used in the system.
+![A33-grp1](https://github.com/BettinaTee03/Final-Year-Project-Management-System/assets/127083047/2e122dad-01f0-46e1-903b-8ab93628e374)
 
 ## Demonstration Video
 
