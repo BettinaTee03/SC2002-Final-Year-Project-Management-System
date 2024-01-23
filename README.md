@@ -83,8 +83,8 @@ Our report can be downloaded here: [report.pdf](https://github.com/BettinaTee03/
 We are Lab Group A33, Group 1, consisting of:
 | Name | GitHub ID |
 | -----|-----------|
-| Cheam Zhong Sheng Andrew | - |
+| Cheam Zhong Sheng Andrew | @cheamy |
 | Chung Zhi Xuan | @spaceman03 |
-| Lim Jing Jie | - | 
+| Lim Jing Jie | @bron322 | 
 | Tee Qin Tong Bettina | @BettinaTee03 |
-| Ting Ruo Chee | - |
+| Ting Ruo Chee | @ruochee723 |
